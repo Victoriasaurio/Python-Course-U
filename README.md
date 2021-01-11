@@ -9,3 +9,7 @@ Contenido del curso <br>
     - Expresiones anidadas
     - Lógico y relacionales
     - Operadores de asignación
++ Sección 5
+    - if
+    - while
+    - for
