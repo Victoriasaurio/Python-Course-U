@@ -5,3 +5,7 @@ Contenido del curso <br>
     - Listas
     - Indices y slicing
     - Cadenas
++ Sección 4
+    - Expresiones anidadas
+    - Lógico y relacionales
+    - Operadores de asignación
